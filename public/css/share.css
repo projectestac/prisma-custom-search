@@ -1,0 +1,24 @@
+#prisma_share_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+  }
+  
+#prisma_share_container .post {
+    flex: 1 0 300px; 
+    margin: 10px;
+  }
+  
+#prisma_share_container .post img {
+    width: 100%; 
+    height: auto; 
+  }
+  
+#prisma_share_container .post .title  {
+    margin-top: 10px; 
+}
+
+.hidden {
+    visibility: hidden;
+}
+

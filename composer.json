@@ -1,0 +1,13 @@
+{
+    "name": "kiwop/prisma",
+    "description": "Plugin Listado Recursos",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Kiwop\\Prisma\\": "src/"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}

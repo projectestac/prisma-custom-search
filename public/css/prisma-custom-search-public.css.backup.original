@@ -1,0 +1,75 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .prisma-background-form-search {
+    background-color: #eee;
+    padding-bottom:20px;
+ }
+
+ .divField {
+    padding-top: 10px;
+ }
+
+ .hidden {
+    display: none;
+    visibility: hidden;
+ }
+
+ .fieldSearch {
+    width: 100%;
+ }
+
+select.fieldSearch {
+    width: 100%;
+}
+.search-result-thumbnail {
+    position: relative;
+}
+.search-result-thumbnail .hovertext {
+    position:absolute; 
+    bottom:0px; 
+    left:0px; 
+    background-color:rgba(6,0,151,1);
+    padding:4px;
+    text-align: center;
+    min-height: 55px;
+    width: 100%;
+}
+
+.search-result-thumbnail .search-result-posttype {
+    position:absolute; 
+    top:5px; 
+    right:5px; 
+    background-color:rgba(255,205,87,1);
+    padding:4px;
+    color:#000;
+}
+
+#prisma-search-result-title {
+    text-decoration: none; 
+    color:#fff;
+}
+
+span.pages_label {
+    font-size: 1em;
+    color: #555;            
+    width: 100px;
+    min-width: 100px;
+    text-align: center;
+}
+
+#kiwopPrisma_recurses {
+    padding:4px;
+    text-align: center;
+}
+
+
+
+.search-result-thumbnail {
+    border: 1px solid #060097;
+    max-height:250px;
+    min-height:250px;
+    overflow: hidden;
+}
