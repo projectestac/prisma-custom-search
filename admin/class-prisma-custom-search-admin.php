@@ -156,8 +156,8 @@ class Prisma_Custom_Search_Admin {
         // echo "mierda"; die();
          
         add_menu_page(
-            'Kiwop',
-            'Cercador personalitzat',
+            'Prisma Custom Search by Kiwop',
+            'Prisma Custom Search',
             'manage_options',
             'kiwop_prisma_custom_search',
             array($this, 'render_admin_page'),
