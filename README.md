@@ -1,4 +1,4 @@
-=== PRISMA CUSTOM SEARCH ===
+# Prisma Custom Search
 
 Contributors: antonio@kiwop.com
 
@@ -11,13 +11,13 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-# Prisma Custom Search
 
-== Dependencies ==
+
+## Dependencies 
 
 You need to have Composer and NPM installed in your system.
 
-== Installation ==
+##  Installation 
 
 e.g.
 
