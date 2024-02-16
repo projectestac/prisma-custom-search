@@ -8,6 +8,7 @@
         }
     },
     "require": {
-        "twbs/bootstrap": "^5.3"
+        "twbs/bootstrap": "^5.3",
+        "fortawesome/font-awesome": "^6.5"
     }
 }

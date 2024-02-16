@@ -13,7 +13,7 @@
  * @package           Prisma_Custom_Search
  *
  * @wordpress-plugin
- * Plugin Name:       Kiwop - Prisma Custom Search
+ * Plugin Name:       Prisma Custom Search
  * Plugin URI:        https://kiwop.com
  * Description:       Permet cercar posts per title, descripcio i amb camps ACF assignats a per cada tipus de post
  * Version:           1.0.0
