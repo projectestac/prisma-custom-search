@@ -1,4 +1,5 @@
 === PRISMA CUSTOM SEARCH ===
+
 Contributors: antonio@kiwop.com
 https://kiwop.com/
 Tags: comments, spam
@@ -26,4 +27,3 @@ e.g.
 4. Activate the plugin through the 'Plugins' menu in WordPress
 5. Check that you have ACF plugin in wordpress installed
 6. Done.
-
